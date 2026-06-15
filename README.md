@@ -21,7 +21,7 @@ An interactive Tableau dashboard built to analyze sales performance and identify
 - Interactive Filtering
 
 ## Dashboard Preview
-![Dashboard](./Salesanalysis.png)
+![Dashboard](C:\Users\NIKILA J\OneDrive\Desktop\CAREER\Data analytics[DELOITTE]/Salesanalysis.png)
 
 ## Learning Outcomes
 - Data cleaning and preparation
