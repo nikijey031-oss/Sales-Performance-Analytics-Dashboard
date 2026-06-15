@@ -21,7 +21,7 @@ An interactive Tableau dashboard built to analyze sales performance and identify
 - Interactive Filtering
 
 ## Dashboard Preview
-![Dashboard]<img width="649" height="849" alt="Salesanalysis" src="https://github.com/user-attachments/assets/9c13f844-c7c8-4c24-b220-d639046b8e9a" />
+<img width="649" height="849" alt="Salesanalysis" src="https://github.com/user-attachments/assets/9c13f844-c7c8-4c24-b220-d639046b8e9a" />
 
 
 ## Learning Outcomes
