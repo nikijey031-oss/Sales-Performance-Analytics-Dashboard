@@ -20,8 +20,8 @@ An interactive Tableau dashboard built to analyze sales performance and identify
 - City-wise Sales Performance Analysis
 - Interactive Filtering
 
-## Dashboard Preview
-![Dashboard](C:\Users\NIKILA J\OneDrive\Desktop\CAREER\Data analytics[DELOITTE]/Salesanalysis.png)
+<img width="649" height="849" alt="Salesanalysis" src="https://github.com/user-attachments/assets/e46ccbcf-a66f-4289-a223-cdd2f87d6d35" />
+
 
 ## Learning Outcomes
 - Data cleaning and preparation
